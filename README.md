@@ -72,20 +72,18 @@ The JavaScript logic can be found in the `script.js` file if you want to adjust 
 - `script.js`: JavaScript logic for calendar calculation and rendering
 - `svg-files/`: Directory containing SVG background images
 
-## Contributing
-
-Contributions to improve the Life Calendar project are welcome. Please feel free to submit issues or pull requests.
-
-## License
-
-[Add your chosen license here]
-
-## Author
-
-Udayy S.P.
-
 ## Acknowledgements
 
 - Social Media Icons provided by [NiftyButtons](https://niftybuttons.com)
 - SVG backgrounds created with [Haikei](https://app.haikei.app/)
 
+## License
+
+This project is licensed under the MIT License.
+
+## From the Author
+
+- *LinkedIn*: [Udayy Singh Pawar](https://www.linkedin.com/in/udayy-singh-pawar/)
+- *GitHub*: [barrackmobamba69](https://github.com/barrackmobamba69)
+
+Feel free to reach out if you have any questions or suggestions!
